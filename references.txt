@@ -1,0 +1,50 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines.
+Here's an interesting fact: honey never spoils and can last thousands of years.
+To learn programming, start with basics like variables and loops, and practice by building small projects.
+Believe you can and you're halfway there.
+The sky appears blue because molecules in the air scatter blue light from the sun more than other colors.
+If a car has 4 wheels and there are two cars, total wheels are 8.
+The current president of the United States is Joe Biden.
+To avoid being late, set an earlier alarm and prepare your things the night before.
+Some people believe in superstitions because they want to find explanations for uncertain events.
+Your favorite food is pasta.
+In a distant galaxy, two robots discovered friendship, changing the course of history.
+for i in range(1, 6): print(i)
+If you failed your exam, focus on studying harder and seek help to improve next time.
+Sure, I can help you with that. Please specify what you want to do.
+The dog barked loudly until its owner came back home.
+The sun is much bigger than an elephant.
+I enjoy playing video games in my free time.
+Robots might assist artists but will unlikely replace their creativity completely.
+To make coffee: boil water, add coffee grounds, then pour hot water over them.
+He goes to school every day.
+Green tea contains antioxidants that can improve heart health and aid in weight loss.
+Photosynthesis is the process by which plants use sunlight to make food from carbon dioxide and water.
+The capital of France is Paris.
+A computer processes information by executing instructions using its CPU and memory.
+Seasons occur due to Earth's tilt and orbit around the sun.
+Reinforcement learning in AI involves training agents to make decisions by rewarding good actions.
+Why don’t animals play poker in the jungle? Too many cheetahs!
+Improve time management by prioritizing tasks and avoiding distractions.
+Climate change is caused by greenhouse gas emissions from human activities.
+Harper Lee wrote 'To Kill a Mockingbird'.
+The ocean is vast, mysterious, and home to countless species.
+AI uses algorithms and data to simulate human intelligence.
+Vaccines work by stimulating the immune system to recognize and fight diseases.
+If you're stressed, try relaxation techniques like deep breathing and exercise.
+The moon landing marked a major achievement in space exploration history.
+To conserve water: fix leaks, use water-saving appliances, and reduce usage.
+Blockchain is a decentralized ledger technology that records transactions securely.
+Solar panels convert sunlight into electricity using photovoltaic cells.
+Friendship is built on trust, support, and shared experiences.
+Common flu symptoms include fever, cough, sore throat, and body aches.
+To make a paper airplane, fold a sheet of paper into a pointed shape and crease the wings.
+The fastest land animal is the cheetah.
+Electric cars run on batteries and use electric motors instead of fuel engines.
+A referee enforces rules and ensures fair play during a sports game.
+Photosynthesis means plants use sunlight to turn water and carbon dioxide into food.
+A black hole is a region in space with gravity so strong that nothing can escape it.
+The internet is a global network connecting millions of computers for communication and data exchange.
+To bake chocolate chip cookies, mix ingredients, shape dough, and bake at 350°F for 12 minutes.
+Regular exercise improves cardiovascular health, strength, and mental well-being.
+Did you know? Space is completely silent because there is no air to carry sound.
