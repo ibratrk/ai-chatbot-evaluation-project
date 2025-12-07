@@ -1,0 +1,50 @@
+What is AI?
+Tell me something interesting.
+How do I learn programming?
+Write a short motivational quote.
+Explain why the sky is blue.
+If a car has 4 wheels and two cars are parked together, how many wheels are there in total?
+Who is the president of the United States?
+I woke up late, missed my bus, and ran 2 km to class. What advice would you give me to avoid this tomorrow?
+Explain why some people believe in superstitions.
+My favorite food is pasta. What is my favorite food?
+Write a short sci-fi story in two sentences.
+Write Python code that prints numbers 1 to 5.
+I failed my exam and feel terrible. What should I do?
+Can you tell me how to do it?
+Summarize: The dog barked loudly until its owner returned home.
+Which is bigger, the sun or an elephant?
+I love video games.
+Do you think robots will replace artists?
+Explain how to make coffee in three clear steps.
+Correct this: He go to school every days.
+What are the health benefits of drinking green tea?
+Describe the process of photosynthesis.
+What is the capital of France?
+How does a computer process information?
+Why do we experience seasons on Earth?
+What is reinforcement learning in AI?
+Tell me a joke about animals.
+How can I improve my time management skills?
+What are the causes of climate change?
+Who wrote "To Kill a Mockingbird"?
+Write a poem about the ocean.
+What is the difference between AI and machine learning?
+How do vaccines work?
+What advice would you give to someone feeling stressed?
+Explain the significance of the moon landing.
+List three ways to conserve water.
+What is blockchain technology?
+How do solar panels generate electricity?
+Write a short story about friendship.
+What are common symptoms of the flu?
+Describe how to make a paper airplane.
+What is the fastest land animal?
+How do electric cars work?
+What is the role of a referee in sports?
+Explain the meaning of “photosynthesis” in simple words.
+What is a black hole?
+How does the internet work?
+Write a recipe for chocolate chip cookies.
+What are the benefits of regular exercise?
+Tell me a fun fact about space.
